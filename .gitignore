@@ -1,0 +1,17 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+## .NET build
+bin/
+obj/
+packages/
+
+## Test results & coverage (кроме готового отчёта)
+TestResults/
+coverage/
+
+## Логи
+*.log

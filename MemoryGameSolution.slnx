@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MemoryGame/MemoryGame.csproj" />
+  <Project Path="MemoryLibrary/MemoryLibrary.csproj" />
+  <Project Path="MemoryTests/MemoryTests.csproj" />
+</Solution>
